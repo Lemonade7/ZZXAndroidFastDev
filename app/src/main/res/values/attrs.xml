@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ZZXTextViewStyle">
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="color" />
+        <attr name="maxLines" format="integer" />
+        <attr name="text" format="string" />
+        <attr name="show_more_image" format="reference" />
+    </declare-styleable>
+</resources>
